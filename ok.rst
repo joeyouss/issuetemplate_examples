@@ -49,9 +49,13 @@ Installing howdoi
 
 To get started with howdoi, In your command line simply type :
 ``pip install howdoi`` 
+
 Or
+
 ``pip install git+https://github.com/gleitz/howdoi.git#egg=howdoi`` 
+
 Or
+
 if you want to use setup tools, you can type:
 ``python setup.py install`` 
 
@@ -127,6 +131,7 @@ Howdoi documentation
 
 The howdoi documentation lies `here <https://gleitz.github.io/howdoi/>`__ and is hosted in the form of mkdocs. It contains each and every detail about howdoi and its related things. The mkdocs also reside in the folder ``howdoi/docs/`` 
 Contents of Howdoi Documentation : 
+
 - Introduction and Installing 
 - Usage of howdoi 
 - Setting up the development environment 
