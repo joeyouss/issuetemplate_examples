@@ -63,33 +63,24 @@ And all the present commands will be shown in front of you.
 Understanding howdoi usage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Howdoi arguments/ flags - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
+- Howdoi arguments/ flags - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
 The available arguments currently are listed below: 
    - **-h, --help** : To see the help message which has all the information about every command 
-   - **-p POS, --pos POS** : To select answer in any
-   specified position. 
-   - **-n NUM, --num NUM** : Defines the number of
-   answers to return. By default, set to 1. 
-   - **-a, --all**: Shows the
-   full text of an answer 
-   - **-l, --link**: Displays only the link of the
-   answer 
-   - **-j** : Displays the answer in JSON format. Useful when you
-   are building on top of howdoi. 
-   - **-c, --color**: Prints colorized output 
-   - **-x, --explain**: Explains why the outputted answer was shown
-   to you 
-   - **-C, --clear-cache**: Clears the cache 
+   - **-p POS, --pos POS** : To select answer in any specified position. 
+   - **-n NUM, --num NUM** : Defines the number of answers to return. By default, set to 1. 
+   - **-a, --all**: Shows the full text of an answer 
+   - **-l, --link**: Displays only the link of the answer 
+   - **-j** : Displays the answer in JSON format. Useful when you are building on top of howdoi. 
+   - **-c, --color**: Prints colorized output
+   - **-x, --explain**: Explains why the outputted answer was shown to you 
+   - **-C, --clear-cache**: Clears the cache
    - **-j, --json** : Outputs the answer in raw JSON format 
    - **-v, --version**: Displays your current version of howdoi. 
-   - **-e [ENGINE], --engine [ENGINE]** : Allows to choose the search engine for the query. Currently supported
-   - google, bing, duckduckgo 
-   - **--save, --stash** : Enables stashing
-   feature for a howdoi answer 
+   - **-e [ENGINE], --engine [ENGINE]** : Allows to choose the search engine for the query. Currently supported google, bing, duckduckgo 
+   - **--save, --stash** : Enables stashing feature for a howdoi answer 
    - **--view** : Displayed the stash
    - **--remove** : Removes an entry in your stash 
-   - **--empty** : Empties
-   the stash completely
+   - **--empty** : Empties the stash completely
 
 -  Howdoi stashing feature - We agree that sometimes you need to need
    search results for later and running the same query again and again
