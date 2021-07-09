@@ -24,13 +24,12 @@ INTRODUCTION TO HOWDOI
 ----------------------
 
 .. raw:: html
-
-   <!------------------------insert gif------------------------->
-
 Howdoi is an open-source command line tool which parses the data on the
 web and makes the most relevant data available to you in your command
-line. As programmers, we often find ourselves Googling for basic
-programming tasks. For example, you just want to know **“how do you
+line. 
+As programmers, we often find ourselves Googling for basic
+programming tasks. 
+For example, you just want to know **“how do you
 print hello in python”**. You would go and open your browser and read
 blogs (risking major distraction). With howdoi, you can get the most
 relevant and correct answers in your command line.
@@ -42,41 +41,58 @@ GETTING STARTED WITH HOWDOI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All you need is Python 3.5 and above and pip installed to run howdoi in
-your local system. **Note : Howdoi Python 2.7 support is discontinued.**
+your local system. 
+**Note : Howdoi Python 2.7 support is discontinued.**
 
 Installing howdoi
 ^^^^^^^^^^^^^^^^^
 
 To get started with howdoi, In your command line simply type :
-``pip install howdoi`` Or
-``pip install git+https://github.com/gleitz/howdoi.git#egg=howdoi`` Or
+``pip install howdoi`` 
+Or
+``pip install git+https://github.com/gleitz/howdoi.git#egg=howdoi`` 
+Or
 if you want to use setup tools, you can type:
-``python setup.py install`` #### Learning how to use howdoi To see all
-the howdoi commands which you can use, simply type: ``howdoi howdoi``
+``python setup.py install`` 
+
+Learning how to use howdoi To see all
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The howdoi commands which you can use, simply type: ``howdoi howdoi``
 And all the present commands will be shown in front of you.
 
 Understanding howdoi usage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  Howdoi arguments/ flags - Howdoi comes with a set of predefined
+Howdoi arguments/ flags - Howdoi comes with a set of predefined
    flags/arguments which can be set by you as per your choice. You can
    just type ``howdoi -h`` in your command line to see each argument and
-   what they do. The available arguments currently are listed below: **-
-   h, --help** : To see the help message which has all the information
-   about every command **-p POS, --pos POS** : To select answer in any
-   specified position. **-n NUM, --num NUM** : Defines the number of
-   answers to return. By default, set to 1. **-a, --all**: Shows the
-   full text of an answer **-l, --link**: Displays only the link of the
-   answer **-j** : Displays the answer in JSON format. Useful when you
-   are building on top of howdoi. **-c, --color**: Prints colorized
-   output **-x, --explain**: Explains why the outputted answer was shown
-   to you **-C, --clear-cache**: Clears the cache **-j, --json** :
-   Outputs the answer in raw JSON format **-v, --version**: Displays
-   your current version of howdoi. **-e [ENGINE], --engine [ENGINE]** :
-   Allows to choose the search engine for the query. Currently supported
-   - google, bing, duckduckgo **--save, --stash** : Enables stashing
-   feature for a howdoi answer **--view** : Displayed the stash
-   **--remove** : Removes an entry in your stash **--empty** : Empties
+   what they do. 
+   The available arguments currently are listed below: 
+   - **-h, --help** : To see the help message which has all the information
+   about every command 
+   - **-p POS, --pos POS** : To select answer in any
+   specified position. 
+   - **-n NUM, --num NUM** : Defines the number of
+   answers to return. By default, set to 1. 
+   - **-a, --all**: Shows the
+   full text of an answer 
+   - **-l, --link**: Displays only the link of the
+   answer 
+   - **-j** : Displays the answer in JSON format. Useful when you
+   are building on top of howdoi. 
+   - **-c, --color**: Prints colorized output 
+   - **-x, --explain**: Explains why the outputted answer was shown
+   to you 
+   - **-C, --clear-cache**: Clears the cache 
+   - **-j, --json** : Outputs the answer in raw JSON format 
+   - **-v, --version**: Displays your current version of howdoi. 
+   - **-e [ENGINE], --engine [ENGINE]** : Allows to choose the search engine for the query. Currently supported
+   - google, bing, duckduckgo 
+   - **--save, --stash** : Enables stashing
+   feature for a howdoi answer 
+   - **--view** : Displayed the stash
+   - **--remove** : Removes an entry in your stash 
+   - **--empty** : Empties
    the stash completely
 
 -  Howdoi stashing feature - We agree that sometimes you need to need
