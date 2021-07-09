@@ -164,7 +164,8 @@ HOW TO CONTRIBUTE
 
 We welcome contributions that make Howdoi better and/or improve the existing functionalities of the project. We have created a separate
 guide to contributing to howdoi which resides in the howdoi documentation in mkdcos. 
-The guide contains the following: -
+The guide contains the following:
+
 - Introduction for first time contributors 
 - Getting started with howdoi 
 - Making PRs and testing 
