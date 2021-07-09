@@ -63,9 +63,9 @@ if you want to use setup tools, you can type:
 
 ``python setup.py install`` 
 
-Learning how to use howdoi To see all
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The howdoi commands which you can use, simply type: ``howdoi howdoi``
+Learning how to use howdoi 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+To see all the howdoi commands which you can use, simply type: ``howdoi howdoi``
 And all the present commands will be shown in front of you.
 
 Understanding howdoi usage
