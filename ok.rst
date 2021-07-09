@@ -42,6 +42,7 @@ GETTING STARTED WITH HOWDOI
 
 All you need is Python 3.5 and above and pip installed to run howdoi in
 your local system. 
+
 **Note : Howdoi Python 2.7 support is discontinued.**
 
 Installing howdoi
@@ -57,6 +58,7 @@ Or
 Or
 
 if you want to use setup tools, you can type:
+
 ``python setup.py install`` 
 
 Learning how to use howdoi To see all
@@ -86,29 +88,33 @@ The available arguments currently are listed below:
    - **--remove** : Removes an entry in your stash 
    - **--empty** : Empties the stash completely
 
--  **Howdoi stashing feature** - We agree that sometimes you need to need
-   search results for later and running the same query again and again
-   won’t be that feasible. Hence, Howdoi has a stashing feature which
-   allows you to save your query, view the query, delete the saved
-   results and even empty the entire stash ! (see keep documentation for
-   more information on stashing). Here is how you can do this:
+-  **Howdoi stashing feature** - We agree that sometimes you need to need search results for later and running the same query again and again
+   won’t be that feasible. Hence, Howdoi has a stashing feature which allows you to save your query, view the query, delete the saved
+   results and even empty the entire stash ! (see keep documentation for more information on stashing). Here is how you can do this:
    
    - **stashing: howdoi --save QUERY** **viewing: howdoi --view**
    - **removing: howdoi --remove (will be prompted which answer to delete)** 
    - **emptying: howdoi --empty (empties entire stash, will be prompted to confirm)**
 
--  **Shortcuts for your parameters** - You might run the same parameters many times and again, typing them isn’t always the best option. You
-   can use shortcuts for your parameters by using something like:
-   ``alias h='function hdi(){ howdoi $* -c -n 5; }; hdi'`` And the in
-   your command line, replace your parameters with your alias i.e. h:
+-  **Shortcuts for your parameters** - You might run the same parameters many times and again, typing them isn’t always the best option. You can use shortcuts for your parameters by using something like:
+
+   ``alias h='function hdi(){ howdoi $* -c -n 5; }; hdi'`` 
+   
+   And the in your command line, replace your parameters with your alias i.e. h:
+   
    ``h format date bash``
 
 -  **Other uses and aliases**- You can also search other StackExchange
    properties for answers. 
+   
    Example:
-   ``HOWDOI_URL=cooking.stackexchange.com`` ``howdoi make pesto`` Or use
-   an alias for the same :
+   
+   ``HOWDOI_URL=cooking.stackexchange.com`` ``howdoi make pesto`` 
+   
+   Or use an alias for the same :
+   
    ``alias hcook='function hcook(){ HOWDOI_URL=cooking.stackexchange.com howdoi $* ; }; hcook'``
+   
    ``hcook make pesto``
 
 -  **Setting up environment variables** : Howdoi uses some environment variables which can be configured by the user as per his/her choice.
