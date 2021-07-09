@@ -27,8 +27,9 @@ INTRODUCTION TO HOWDOI
 Howdoi is an open-source command line tool which parses the data on the
 web and makes the most relevant data available to you in your command
 line. 
-As programmers, we often find ourselves Googling for basic
-programming tasks. 
+
+As programmers, we often find ourselves Googling for basic programming tasks. 
+
 For example, you just want to know **“how do you
 print hello in python”**. You would go and open your browser and read
 blogs (risking major distraction). With howdoi, you can get the most
@@ -49,6 +50,7 @@ Installing howdoi
 ^^^^^^^^^^^^^^^^^
 
 To get started with howdoi, In your command line simply type :
+
 ``pip install howdoi`` 
 
 Or
