@@ -106,8 +106,7 @@ The available arguments currently are listed below:
    
    ``h format date bash``
 
--  **Other uses and aliases** - 
-You can also search other StackExchange properties for answers. 
+-  **Other uses and aliases** - You can also search other StackExchange properties for answers. 
    
    Example:
    
@@ -119,8 +118,7 @@ You can also search other StackExchange properties for answers.
    
    ``hcook make pesto``
 
--  **Setting up environment variables** : 
-Howdoi uses some environment variables which can be configured by the user as per his/her choice.
+-  **Setting up environment variables** - Howdoi uses some environment variables which can be configured by the user as per his/her choice.
       The following are the environment variables and their usage :
 
    -  HOWDOI\_COLORIZE=1 - Colorizes the output produced.
