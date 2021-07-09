@@ -65,7 +65,7 @@ Understanding howdoi usage
 
 Howdoi arguments/ flags - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
 The available arguments currently are listed below: 
-- **-h, --help** : To see the help message which has all the information about every command 
+   - **-h, --help** : To see the help message which has all the information about every command 
    - **-p POS, --pos POS** : To select answer in any
    specified position. 
    - **-n NUM, --num NUM** : Defines the number of
