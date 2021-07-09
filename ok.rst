@@ -7,7 +7,7 @@ instant coding answers via the command line
 Table of Contents
 ~~~~~~~~~~~~~~~~~
 
--  Inroduction to howdoi
+-  Inroduction to howdoi :ref:`INTRODUCTION TO HOWDOI>`.
 -  Getting started with howdoi
 
    -  Installation
