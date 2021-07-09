@@ -125,13 +125,15 @@ The available arguments currently are listed below:
 Howdoi documentation
 ^^^^^^^^^^^^^^^^^^^^
 
-The howdoi documentation lies
-`here <https://gleitz.github.io/howdoi/>`__ and is hosted in the form of
-mkdocs. It contains each and every detail about howdoi and its related
-things. The mkdocs also reside in the folder ``howdoi/docs/`` Contents
-of Howdoi Documentation : - Introduction and Installing - Usage of
-howdoi - Setting up the development environemnt - How to contribute -
-Contributing documentation - Developing extension - Troubleshooting
+The howdoi documentation lies `here <https://gleitz.github.io/howdoi/>`__ and is hosted in the form of mkdocs. It contains each and every detail about howdoi and its related things. The mkdocs also reside in the folder ``howdoi/docs/`` 
+Contents of Howdoi Documentation : 
+- Introduction and Installing 
+- Usage of howdoi 
+- Setting up the development environment 
+- How to contribute 
+- Contributing documentation 
+- Developing extension 
+- Troubleshooting
 
 CONTRIBUTORS
 ~~~~~~~~~~~~
@@ -148,13 +150,14 @@ CONTRIBUTORS
 HOW TO CONTRIBUTE
 ~~~~~~~~~~~~~~~~~
 
-We welcome contributions that make Howdoi better and/or improve the
-existing functionalities of the project. We have created a separate
-guide to contributing to howdoi which resides in the howdoi
-documentation in mkdcos. The guide contains the following: -
-Introduction for first time contributors - Getting started with howdoi -
-Making PRs and testing - Asking for help - Helpful tips for a good
-contribution experience.
+We welcome contributions that make Howdoi better and/or improve the existing functionalities of the project. We have created a separate
+guide to contributing to howdoi which resides in the howdoi documentation in mkdcos. 
+The guide contains the following: -
+- Introduction for first time contributors 
+- Getting started with howdoi 
+- Making PRs and testing 
+- Asking for help 
+- Helpful tips for a good contribution experience.
 
 NOTES AND IMPORTANT POINTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
