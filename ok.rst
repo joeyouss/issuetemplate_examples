@@ -135,19 +135,15 @@ Contributing documentation - Developing extension - Troubleshooting
 
 CONTRIBUTORS
 ~~~~~~~~~~~~
-
--  Benjamin Gleitzman (``@gleitz <http://twitter.com/gleitz>``\ \_)
--  Yanlam Ko (``@YKo20010 <https://github.com/YKo20010>``\ \_)
--  Diana Arreola (``@diarreola <https://github.com/diarreola>``\ \_)
--  Eyitayo Ogunbiyi
-   (``@tayoogunbiyi <https://github.com/tayoogunbiyi>``\ \_)
--  Chris Nguyen (``@chrisngyn <https://github.com/chrisngyn>``\ \_)
--  Shageldi Ovezov (``@ovezovs <https://github.com/chrisngyn>``\\_)
--  Mwiza Simbeye
-   (``@mwizasimbeye11 <https://github.com/mwizasimbeye11>``\ \_)
--  Shantanu Verma (``@SaurusXI <https://github.com/SaurusXI>``\ \_)
--  And
-   ``more! <https://github.com/gleitz/howdoi/graphs/contributors>``\ \_
+-  Benjamin Gleitzman (`@gleitz <http://twitter.com/gleitz>`_)
+-  Yanlam Ko (`@YKo20010 <https://github.com/YKo20010>`_)
+-  Diana Arreola (`@diarreola <https://github.com/diarreola>`_)
+-  Eyitayo Ogunbiyi (`@tayoogunbiyi <https://github.com/tayoogunbiyi>`_)
+-  Chris Nguyen (`@chrisngyn <https://github.com/chrisngyn>`_)
+-  Shageldi Ovezov (`@ovezovs <https://github.com/chrisngyn>`_)
+-  Mwiza Simbeye (`@mwizasimbeye11 <https://github.com/mwizasimbeye11>`_)
+-  Shantanu Verma (`@SaurusXI <https://github.com/SaurusXI>`_)
+-  And `more! <https://github.com/gleitz/howdoi/graphs/contributors>`_
 
 HOW TO CONTRIBUTE
 ~~~~~~~~~~~~~~~~~
@@ -162,21 +158,11 @@ contribution experience.
 
 NOTES AND IMPORTANT POINTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  Works with Python 3.5 and newer. Unfortunately Python 2.7 support has
-   been discontinued :(
--  There is a
-   ``GUI that wraps howdoi <https://pypi.org/project/pysimplegui-howdoi/>``\ \_.
--  There is a
-   ``Flask webapp that wraps howdoi <https://howdoi.maxbridgland.com>``\ \_.
--  An Alfred Workflow for howdoi can be found at
-   ``http://blog.gleitzman.com/post/48539944559/howdoi-alfred-even-more-instant-answers <http://blog.gleitzman.com/post/48539944559/howdoi-alfred-even-more-instant-answers>``\ \_.
--  Slack integration available through
-   ``slack-howdoi <https://github.com/ellisonleao/slack-howdoi>``\ \_.
--  Telegram integration available through
-   ``howdoi-telegram <https://github.com/aahnik/howdoi-telegram>``\ \_.
--  Special thanks to Rich Jones
-   (``@miserlou <https://github.com/miserlou>``\ \_) for the idea.
--  More thanks to ``Ben Bronstein <https://benbronstein.com/>``\ \_ for
-   the logo.
-
+-  Works with Python 3.5 and newer. Unfortunately Python 2.7 support has been discontinued :(
+-  There is a `GUI that wraps howdoi <https://pypi.org/project/pysimplegui-howdoi/>`_.
+-  There is a `Flask webapp that wraps howdoi <https://howdoi.maxbridgland.com>`_.
+-  An Alfred Workflow for howdoi can be found at `http://blog.gleitzman.com/post/48539944559/howdoi-alfred-even-more-instant-answers <http://blog.gleitzman.com/post/48539944559/howdoi-alfred-even-more-instant-answers>`_.
+-  Slack integration available through `slack-howdoi <https://github.com/ellisonleao/slack-howdoi>`_.
+-  Telegram integration available through `howdoi-telegram <https://github.com/aahnik/howdoi-telegram>`_.
+-  Special thanks to Rich Jones (`@miserlou <https://github.com/miserlou>`_) for the idea.
+-  More thanks to `Ben Bronstein <https://benbronstein.com/>`_ for the logo.
