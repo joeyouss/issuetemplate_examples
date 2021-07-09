@@ -7,7 +7,7 @@ instant coding answers via the command line
 Table of Contents
 ~~~~~~~~~~~~~~~~~
 
--  :ref:`INTRODUCTION TO HOWDOI>`.
+-  Introduction to howdoi
 -  Getting started with howdoi
 
    -  Installation
@@ -63,7 +63,7 @@ And all the present commands will be shown in front of you.
 Understanding howdoi usage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Howdoi arguments/ flags - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
+- **Howdoi arguments/ flags** - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
 The available arguments currently are listed below: 
    - **-h, --help** : To see the help message which has all the information about every command 
    - **-p POS, --pos POS** : To select answer in any specified position. 
@@ -82,7 +82,7 @@ The available arguments currently are listed below:
    - **--remove** : Removes an entry in your stash 
    - **--empty** : Empties the stash completely
 
--  Howdoi stashing feature - We agree that sometimes you need to need
+-  **Howdoi stashing feature** - We agree that sometimes you need to need
    search results for later and running the same query again and again
    won’t be that feasible. Hence, Howdoi has a stashing feature which
    allows you to save your query, view the query, delete the saved
@@ -142,7 +142,7 @@ CONTRIBUTORS
 -  Eyitayo Ogunbiyi
    (``@tayoogunbiyi <https://github.com/tayoogunbiyi>``\ \_)
 -  Chris Nguyen (``@chrisngyn <https://github.com/chrisngyn>``\ \_)
--  Shageldi Ovezov (``@ovezovs <https://github.com/chrisngyn>``\ \_)
+-  Shageldi Ovezov (``@ovezovs <https://github.com/chrisngyn>``\\_)
 -  Mwiza Simbeye
    (``@mwizasimbeye11 <https://github.com/mwizasimbeye11>``\ \_)
 -  Shantanu Verma (``@SaurusXI <https://github.com/SaurusXI>``\ \_)
