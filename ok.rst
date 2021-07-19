@@ -4,21 +4,17 @@ howdoi
 instant coding answers via the command line
 -------------------------------------------
 
-Table of Contents
+howdoi documentation
 ~~~~~~~~~~~~~~~~~
 
--  Introduction to howdoi
--  Getting started with howdoi
-
-   -  Installation
-   -  Learning how to use howdoi
-   -  Howdoi documentation
-   -  Howdoi extension
-
--  Howdoi documentation
--  Contributors
+-  Introduction to howdoi and installation
+-  Howdoi usage
+-  Setting up the development environment
 -  Contributing to howdoi
--  Notes and important points
+-  Contributing documentation to howdoi
+-  howdoi extension development
+-  howdoi advanced usage
+
 
 INTRODUCTION TO HOWDOI
 ----------------------
@@ -28,15 +24,38 @@ Howdoi is an open-source command line tool which parses the data on the
 web and makes the most relevant data available to you in your command
 line. 
 
-As programmers, we often find ourselves Googling for basic programming tasks. 
+Are you a hack programmer? Do you find yourself constantly Googling for
+how to do basic programming tasks?
 
-For example, you just want to know **“how do you
-print hello in python”**. You would go and open your browser and read
-blogs (risking major distraction). With howdoi, you can get the most
-relevant and correct answers in your command line.
+Suppose you want to know how to format a date in bash. Why open your browser
+and read through blogs (risking major distraction) when you can simply stay
+in the console and ask howdoi:
 
-You just need to type ``howdoi print in python`` and there you have your
-answer in your command line!.
+::
+    $ howdoi print stack trace python
+    > import traceback
+    >
+    > try:
+    >     1/0
+    > except:
+    >     print '>>> traceback <<<'
+    >     traceback.print_exc()
+    >     print '>>> end of traceback <<<'
+    > traceback.print_exc()
+
+    $ howdoi convert mp4 to animated gif
+    > video=/path/to/video.avi
+    > outdir=/path/to/output.gif
+    > mplayer "$video" \
+    >         -ao null \
+    >         -ss "00:01:00" \  # starting point
+    >         -endpos 10 \ # duration in second
+    >         -vo gif89a:fps=13:output=$outdir \
+    >         -vf scale=240:180
+
+    $ howdoi create tar archive
+    > tar -cf backup.tar --exclude "www/subf3" www
+
 
 GETTING STARTED WITH HOWDOI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
