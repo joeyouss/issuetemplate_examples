@@ -61,10 +61,6 @@ And all the present commands will be shown in front of you.
 
 Understanding howdoi usage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Usage
------
-
-```
 - **Howdoi arguments/ flags** - Howdoi comes with a set of predefined flags/arguments which can be set by you as per your choice. You can just type ``howdoi -h`` in your command line to see each argument and what they do. 
 The available arguments currently are listed below: 
    - **-h, --help** : To see the help message which has all the information about every command 
@@ -91,7 +87,6 @@ The available arguments currently are listed below:
    - **stashing: howdoi --save QUERY** **viewing: howdoi --view**
    - **removing: howdoi --remove (will be prompted which answer to delete)** 
    - **emptying: howdoi --empty (empties entire stash, will be prompted to confirm)**
-```
 
 -  **Shortcuts for your parameters** - You might run the same parameters many times and again, typing them isn’t always the best option. You can use shortcuts for your parameters by using something like:
 
