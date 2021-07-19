@@ -4,7 +4,7 @@ howdoi
 instant coding answers via the command line
 -------------------------------------------
 
-howdoi documentation(`<http://gleitz.github.io/howdoi/>`_)
+(_`howdoi documentation<http://gleitz.github.io/howdoi/>`_)
 ~~~~~~~~~~~~~~~~~
 
 -  Introduction to howdoi and installation
