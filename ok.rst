@@ -4,10 +4,10 @@ howdoi
 instant coding answers via the command line
 -------------------------------------------
 
-_`howdoi documentation <http://gleitz.github.io/howdoi/>`_
+`howdoi documentation <http://gleitz.github.io/howdoi/>`_
 ~~~~~~~~~~~~~~~~~
 
--  _`Introduction to howdoi and installation <http://gleitz.github.io/howdoi/introduction/>`_
+-  `Introduction to howdoi and installation <http://gleitz.github.io/howdoi/introduction/>`_
 -  `Howdoi usage <http://gleitz.github.io/howdoi/usage/>`_
 -  `Setting up the development environment <http://gleitz.github.io/howdoi/development_env/>`_
 -  `Contributing to howdoi <http://gleitz.github.io/howdoi/contributing_to_howdoi/>`_
