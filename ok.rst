@@ -7,13 +7,15 @@ instant coding answers via the command line
 `howdoi documentation <http://gleitz.github.io/howdoi/>`_
 ~~~~~~~~~~~~~~~~~
 
--  Introduction to howdoi and installation
--  Howdoi usage
--  Setting up the development environment
--  Contributing to howdoi
--  Contributing documentation to howdoi
--  howdoi extension development
--  howdoi advanced usage
+-  Introduction to howdoi and installation <http://gleitz.github.io/howdoi/introduction/>`_
+-  Howdoi usage <http://gleitz.github.io/howdoi/usage/>`_
+-  Setting up the development environment <http://gleitz.github.io/howdoi/development_env/>`_
+-  Contributing to howdoi <http://gleitz.github.io/howdoi/contributing_to_howdoi/>`_
+-  Contributing documentation to howdoi <http://gleitz.github.io/howdoi/contributing_docs/>`_
+-  Extension development <http://gleitz.github.io/howdoi/extension_dev/>`_
+-  howdoi advanced usage <http://gleitz.github.io/howdoi/howdoi_advanced_usage/>`_
+-  Troubleshooting <http://gleitz.github.io/howdoi/troubleshooting/>`_
+-  Development environment for windows <http://gleitz.github.io/howdoi/windows-contributing/>`_
 
 
 INTRODUCTION TO HOWDOI
